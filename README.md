@@ -29,5 +29,3 @@
 - Simplicidade
     - Kiss **(Mantenha isso simples, e idiota)**
 - Iterações curtas **(quebra de tarefas)**
-
-[JavaScript](https://www.notion.so/JavaScript-185866cb54884b17b450a9cc97e5953a?pvs=21)
